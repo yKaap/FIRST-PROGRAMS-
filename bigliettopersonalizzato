@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
     }
     else
     {
-        printf("Inserisci il nome,evento e posto assegnato\n");
+        printf("Sintassi errata, riprova facendo ./bigliettopersonalizzato Nome Evento Posto\n");
     }
 
     return 0;
